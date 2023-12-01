@@ -113,7 +113,7 @@ Existing customizations in Alfresco 7.0 need to be identified to be applied to t
 
 **Configuration**
 
-Mainly available in [alfresco-7.0/docker-compose.yml].
+Mainly available in [alfresco-7.0/docker-compose.yml](alfresco-7.0/docker-compose.yml).
 
 * Repository
   * `solr.secureComms=none` 
@@ -150,7 +150,7 @@ Apply customizations from Alfresco 7.0 to 23.1 deployment
 
 **Configuration**
 
-Mainly to be applied in [alfresco-23.1/compose.yaml].
+Mainly to be applied in [alfresco-23.1/compose.yaml](alfresco-23.1/compose.yaml).
 
 * Repository
   * `solr.secureComms=none` is not supported in Alfresco 23.1, it's required to switch to `solr.secureComms=secret` plus `solr.sharedSecret=w3n8o6vjh1e `
