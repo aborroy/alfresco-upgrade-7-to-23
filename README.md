@@ -1,4 +1,4 @@
-# Guide to upgrade Alfresco 7.0 to Alfresco 23.1 [![Spain](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/es.png "Spain")](README_es.md)
+# Guide to upgrade Alfresco 7.0 to Alfresco 23.1 [![Spain](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/75/country-4x3/es.png "Spain")](README_es.md)
 
 This project provides a step by step tutorial to upgrade an existing ACS 7.0 to a new ACS 23.1 deployment.
 
